@@ -1,0 +1,36 @@
+C:\Users\FIRMANSYAH\Documents\exsercise_1_HTML\exsercise_1_HTML\bin\exsercise_1_HTML.dll.config
+C:\Users\FIRMANSYAH\Documents\exsercise_1_HTML\exsercise_1_HTML\bin\exsercise_1_HTML.dll
+C:\Users\FIRMANSYAH\Documents\exsercise_1_HTML\exsercise_1_HTML\bin\exsercise_1_HTML.pdb
+C:\Users\FIRMANSYAH\Documents\exsercise_1_HTML\exsercise_1_HTML\obj\Debug\exsercise_1_HTML.csprojResolveAssemblyReference.cache
+C:\Users\FIRMANSYAH\Documents\exsercise_1_HTML\exsercise_1_HTML\obj\Debug\exsercise_1_HTML.dll
+C:\Users\FIRMANSYAH\Documents\exsercise_1_HTML\exsercise_1_HTML\obj\Debug\exsercise_1_HTML.pdb
+F:\KULIAH\Kuliah\Semester 4\Pengembangan konten web\exsercise_1_HTML\exsercise_1_HTML\bin\exsercise_1_HTML.dll.config
+F:\KULIAH\Kuliah\Semester 4\Pengembangan konten web\exsercise_1_HTML\exsercise_1_HTML\bin\exsercise_1_HTML.dll
+F:\KULIAH\Kuliah\Semester 4\Pengembangan konten web\exsercise_1_HTML\exsercise_1_HTML\bin\exsercise_1_HTML.pdb
+F:\KULIAH\Kuliah\Semester 4\Pengembangan konten web\exsercise_1_HTML\exsercise_1_HTML\obj\Debug\exsercise_1_HTML.csprojResolveAssemblyReference.cache
+F:\KULIAH\Kuliah\Semester 4\Pengembangan konten web\exsercise_1_HTML\exsercise_1_HTML\obj\Debug\exsercise_1_HTML.dll
+F:\KULIAH\Kuliah\Semester 4\Pengembangan konten web\exsercise_1_HTML\exsercise_1_HTML\obj\Debug\exsercise_1_HTML.pdb
+E:\Materi Kuliah\Semester 4\HTML\Latihan\exsercise_1_HTML\exsercise_1_HTML\bin\exsercise_1_HTML.dll.config
+E:\Materi Kuliah\Semester 4\HTML\Latihan\exsercise_1_HTML\exsercise_1_HTML\bin\exsercise_1_HTML.dll
+E:\Materi Kuliah\Semester 4\HTML\Latihan\exsercise_1_HTML\exsercise_1_HTML\bin\exsercise_1_HTML.pdb
+E:\Materi Kuliah\Semester 4\HTML\Latihan\exsercise_1_HTML\exsercise_1_HTML\obj\Debug\exsercise_1_HTML.csprojResolveAssemblyReference.cache
+E:\Materi Kuliah\Semester 4\HTML\Latihan\exsercise_1_HTML\exsercise_1_HTML\obj\Debug\exsercise_1_HTML.dll
+E:\Materi Kuliah\Semester 4\HTML\Latihan\exsercise_1_HTML\exsercise_1_HTML\obj\Debug\exsercise_1_HTML.pdb
+E:\Materi Kuliah\Semester 4\HTML\Latihan\exsercise_1_HTML_SkylightUniversity\exsercise_1_HTML\bin\exsercise_1_HTML.dll.config
+E:\Materi Kuliah\Semester 4\HTML\Latihan\exsercise_1_HTML_SkylightUniversity\exsercise_1_HTML\bin\exsercise_1_HTML.dll
+E:\Materi Kuliah\Semester 4\HTML\Latihan\exsercise_1_HTML_SkylightUniversity\exsercise_1_HTML\bin\exsercise_1_HTML.pdb
+E:\Materi Kuliah\Semester 4\HTML\Latihan\exsercise_1_HTML_SkylightUniversity\exsercise_1_HTML\obj\Debug\exsercise_1_HTML.csprojResolveAssemblyReference.cache
+E:\Materi Kuliah\Semester 4\HTML\Latihan\exsercise_1_HTML_SkylightUniversity\exsercise_1_HTML\obj\Debug\exsercise_1_HTML.dll
+E:\Materi Kuliah\Semester 4\HTML\Latihan\exsercise_1_HTML_SkylightUniversity\exsercise_1_HTML\obj\Debug\exsercise_1_HTML.pdb
+E:\Materi Kuliah\Semester 4\HTML\Tes PA\exsercise_1_HTML\bin\exsercise_1_HTML.dll.config
+E:\Materi Kuliah\Semester 4\HTML\Tes PA\exsercise_1_HTML\bin\exsercise_1_HTML.dll
+E:\Materi Kuliah\Semester 4\HTML\Tes PA\exsercise_1_HTML\bin\exsercise_1_HTML.pdb
+E:\Materi Kuliah\Semester 4\HTML\Tes PA\exsercise_1_HTML\obj\Debug\exsercise_1_HTML.csprojResolveAssemblyReference.cache
+E:\Materi Kuliah\Semester 4\HTML\Tes PA\exsercise_1_HTML\obj\Debug\exsercise_1_HTML.dll
+E:\Materi Kuliah\Semester 4\HTML\Tes PA\exsercise_1_HTML\obj\Debug\exsercise_1_HTML.pdb
+F:\Materi Kuliah\Semester 4\HTML\Tes PA\exsercise_1_HTML\bin\exsercise_1_HTML.dll.config
+F:\Materi Kuliah\Semester 4\HTML\Tes PA\exsercise_1_HTML\bin\exsercise_1_HTML.dll
+F:\Materi Kuliah\Semester 4\HTML\Tes PA\exsercise_1_HTML\bin\exsercise_1_HTML.pdb
+F:\Materi Kuliah\Semester 4\HTML\Tes PA\exsercise_1_HTML\obj\Debug\exsercise_1_HTML.csprojResolveAssemblyReference.cache
+F:\Materi Kuliah\Semester 4\HTML\Tes PA\exsercise_1_HTML\obj\Debug\exsercise_1_HTML.dll
+F:\Materi Kuliah\Semester 4\HTML\Tes PA\exsercise_1_HTML\obj\Debug\exsercise_1_HTML.pdb

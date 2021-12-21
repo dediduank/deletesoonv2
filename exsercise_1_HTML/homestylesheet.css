@@ -1,0 +1,182 @@
+        H3 {
+
+            color: black;
+            font-family: 'Times New Roman';
+            position: absolute;
+            right: 130px;
+            top: 320px;
+        }
+
+        th {
+            border: solid 1px black;
+        }
+
+        table
+         {
+            border: solid 1px black;
+        }
+
+        td {
+            border: solid 1px black;
+        }
+
+        Aside P {
+            text-align: center;
+            background-color: black;
+            color: white;
+            font-size: 15px;
+        }
+
+ 
+
+        body {
+
+            background-color: white;
+
+            
+
+            background-repeat: repeat-x;
+
+        }
+
+ 
+
+        details {
+
+            color: blue;
+
+            font-family: 'Script MT';
+
+            font-size: 15px;
+
+        }
+
+ 
+
+        H1 {
+
+            font-family: 'Times New Roman';
+
+            color: black;
+
+            font-size: 20px;
+
+            position: absolute;
+
+            top: 0px;
+
+            right: 50px;
+
+
+        }
+
+ 
+
+        Article P {
+
+            color: blue;
+
+            font-size: 15px;
+
+            font-family: 'Times New Roman';
+            align-items:center;
+
+            
+
+        }
+
+ 
+
+        H5 {
+
+            font-family: arial;
+
+            color: black;
+
+            font-size: 16px;
+		float:right;
+
+        }
+
+ 
+
+        H2 {
+
+            color: black;
+
+            font-family: algerian;
+
+            position: relative;
+
+            top: 0px;
+
+            right: 0px;
+
+            left: 500px;
+
+        }
+
+ 
+
+        details UL {
+
+            color: black;
+
+            font-size: 15px;
+
+        }
+
+ 
+
+        H4 {
+
+            color: blue;
+
+            font-family: 'Script MT';
+
+        }
+
+ 
+
+        video {
+
+            position: absolute;
+
+            right: 50px;
+
+            top: 380px;
+
+        }
+
+ 
+
+        #mainDivContainer H4 {
+
+            color: blue;
+
+            font-size: 24px;
+
+        }
+
+        .auto-style1 {
+
+            color: black;
+            font-style: italic;
+        }
+
+        #callus {
+
+            height: 80px;
+            width: 50px;
+		float:right;
+			        }
+
+ 
+NAV a:hover{ 
+color: pink; 
+} 
+NAV A{
+display: inline;
+text-decoration: none;
+color:white;
+}

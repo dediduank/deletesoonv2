@@ -1,0 +1,120 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+    <title>Home Page</title>
+    <link type="text/css" rel="stylesheet" href="homestylesheet.css" />
+    <style>
+
+        th
+        {
+            border : none;
+        }
+        tr{
+            border : none;
+        }
+        td{
+            border : none;
+        }
+        table
+        {
+            border : none;
+        }
+        body {
+            background-color: #c77e4a;
+            background-image: url('background.gif');
+            background-repeat: repeat-x;
+        }
+        th
+        {
+            font-family : 'Script MT';
+        }
+    </style>    
+
+    <script>
+        function sub()
+        {
+            alert("Thanks For Your Information")
+        }
+    </script>
+</head>
+<body>
+    <div id="mainDivContainer" style="position: relative; width: 100%;  margin-top:0px; margin-bottom: 0px;  ">
+
+
+
+
+        <div style="width: 1100px;  margin-top: 0px; margin-left: auto; margin-right:auto; ">
+            <nav style="text-align:right;  margin-right:100px;" id="toplink">
+                <a href="home.html">Home</a>|
+                <a href="aboutus.html">About Us</a>|
+                <a href="careers.html">Careers</a>|
+                <a href="contactus.html">Contact Us</a>|
+                <a href="Courses.html">Courses</a>|
+                <a href="Register.html">Register</a>|
+
+            </nav>
+
+            <div style="width: 1100px; height:800px; float:left; padding-left:20px; ">
+                <img src="logo.gif" width=180 height=140></img>
+                <br>
+                <br>
+                <div style="width: 960px; height:auto; position:relative; margin:0px; padding:15px; overflow: hidden;background-color:lightgrey ;border:5px solid black">
+                    <form name="form1" onsubmit="return validate();">
+
+                       <table align="center">
+                            <tr>
+                                <th colspan="2">Register Online</th>
+                            </tr>
+                            <tr>
+                                <td>First Name</td>
+                                <td><input type="text" name="firstname" placeholder="Enter Your First Name" required /></td>
+                            </tr>
+                            <tr>
+                                <td>Last Name</td>
+                                <td><input type="text" name="lastname" placeholder="Enter Your Last Name" required /></td>
+                            </tr>
+                            <tr>
+                                <td>Email ID</td>
+                                <td><input type="text" name="emailid" placeholder="Enter Your Email Address" required /></td>
+                            </tr>
+                            <tr>
+                                <td>Roll Number</td>
+                                <td><input type="number" name="RollName" placeholder="Enter Your Roll Number" required /></td>
+                            </tr>
+                            <tr>
+                                <td>Training Program </td>
+                                <td>
+                                    <select id="sel">
+                                        <option value="0">Select Training</option>
+                                        <optgroup label="Engineer Faculty">
+                                            <option value="1">Information Technology</option>
+                                            <option value="2">Electrical Engineering</option>
+                                        </optgroup>
+                                        <optgroup label="Social">
+                                            <option value="3">Economic</option>
+                                            <option value="4">International Relation</option>
+                                        </optgroup>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Contact Number</td>
+                                <td><input type="number" name="contactnum" placeholder="Enter Your Contact Number" required /></td>
+                            </tr>
+                            <tr>
+                                <td >
+                                    <input id="submit" type="submit" onclick="sub()">
+                                </td>
+                                <td>
+                                    <input type="reset">
+                                </td>
+                            </tr>
+                        </table>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
